@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" viewBox="0 0 1007.4 1004.4">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #c3a634;
+      }
+    </style>
+  </defs>
+  <g id="Capa_11" data-name="Capa_1" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <circle class="st1" cx="503.7" cy="502.2" r="499.3"/>
+  </g>
+  <path class="st0" d="M754.48,380.95c-11.54-34.24-29.15-63.23-52.35-86.16-23.18-22.93-52.48-40.33-87.07-51.74-34.12-11.25-74.35-16.95-119.57-16.95h-175.67v220.84h-57.05v95.44h57.05v235.92h175.67c45.24,0,85.49-5.83,119.63-17.34,34.6-11.66,63.9-29.45,87.09-52.88,23.17-23.42,40.76-53.02,52.29-87.97,11.37-34.48,17.14-75.13,17.14-120.82s-5.77-84.56-17.16-118.34ZM408.94,542.38h157.99v-95.44h-157.99v-137.67h85.13c72.43,0,121.99,16.3,147.3,48.46,25.88,32.88,39.01,80.51,39.01,141.57s-13.21,111.86-39.27,145.84c-25.44,33.17-74.91,49.99-147.05,49.99h-85.13v-152.76Z"/>
+</svg>
